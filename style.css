@@ -1,0 +1,35 @@
+.nav-btn-s{
+   
+    padding:5px 8px;
+}
+
+.nav-link-a{
+    background:#21DEEF;
+    padding:6px 13px !important;
+    border-radius: 3px;
+    color:white !important;
+    transition:.4s;
+}
+
+.nav-link-a:hover{
+    background:rgb(231, 231, 231);
+    color: #000 !important;
+
+}
+.nav-link-1{
+    background:rgb(231, 231, 231);
+    border-radius: 3px;
+    color: #000 !important;
+}
+.search-input{
+    position: relative;
+    margin-left: 5%;
+}
+
+.search{
+    position: absolute;
+    text-align: right;
+    border: none !important;
+    background-color: white !important;
+    margin-left: 68%;
+}
